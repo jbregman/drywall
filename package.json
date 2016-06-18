@@ -15,7 +15,7 @@
     "bcrypt": "0.8.x",
     "body-parser": "1.x.x",
     "compression": "1.x.x",
-    "connect-mongo": "1.x.x",
+    "connect-mongo": "1.0.0",
     "cookie-parser": "1.x.x",
     "csurf": "1.x.x",
     "emailjs": "1.x.x",
